@@ -1,6 +1,6 @@
 # Ependymal cell
 
-This repository contains the R code used to analyse single-cell RNA-sequencing data in Rodrigo Albors et al 2022.
+This repository contains the R code used to analyse single-cell RNA-sequencing data in Rodrigo Albors et al 2022. The R scripts are numbered based on to which figure the analyses relate to.
 
 The preprint of the study can be found at: <https://www.biorxiv.org/content/10.1101/2022.03.07.483249v1>
 
