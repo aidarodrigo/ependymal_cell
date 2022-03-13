@@ -1,3 +1,3 @@
 # ependymal_cell
 
-(paper)[https://....]
+the [paper](https://www.nature.com) 
